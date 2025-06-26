@@ -1,0 +1,6 @@
+// API CONTROLLER FUNCTION TO MANAGE CLERK USER WITH DATABASE
+//HHTP://LOCALHIOST:4000/API/USER/WEBHOOK
+
+const clerkWebhooks = async (req, res) => {
+    
+}
